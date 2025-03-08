@@ -57,10 +57,6 @@ Below is a video demonstration showcasing the functionality and design of the ap
 ## Usage
 This application is ideal for individuals and businesses involved in cross-border trade with the Russian Federation. It simplifies the process of calculating shipping and customs duties, ensuring accurate and efficient cost estimation.
 
----
-
-## Contributing
-Contributions to this project are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 ---
 
